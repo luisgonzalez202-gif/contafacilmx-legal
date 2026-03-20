@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Términos y Condiciones — ContaFacil MX</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 24px; color: #333; }
+    h1 { color: #006847; text-align: center; }
+    h2 { color: #006847; margin-top: 32px; }
+    .subtitulo { color: #C9A84C; text-align: center; font-size: 14px; }
+    .fecha { color: #999; text-align: center; font-size: 13px; margin-bottom: 32px; }
+    .divisor { border: none; border-top: 2px solid #C9A84C; margin: 32px 0; opacity: 0.4; }
+    ul { line-height: 1.8; }
+    p { line-height: 1.7; }
+    .footer { text-align: center; color: #999; font-size: 12px; margin-top: 40px; }
+  </style>
+</head>
+<body>
+  <h1>TÉRMINOS Y CONDICIONES DE USO</h1>
+  <p class="subtitulo">ContaFacil MX</p>
+  <p class="fecha">Última actualización: 19 de marzo de 2026</p>
+  <hr class="divisor">
+
+  <h2>1. Aceptación de los Términos</h2>
+  <p>Al descargar, instalar o utilizar la aplicación móvil ContaFacil MX (en adelante "la App"), usted acepta quedar vinculado por los presentes Términos y Condiciones de Uso. Si no está de acuerdo con alguno de estos términos, no utilice la App.</p>
+
+  <h2>2. Descripción del Servicio</h2>
+  <p>ContaFacil MX es una aplicación móvil de orientación fiscal diseñada para personas físicas que tributan en México. La App ofrece las siguientes funciones:</p>
+  <ul>
+    <li>Consulta del tipo de cambio FIX publicado por Banxico</li>
+    <li>Calculadora de retenciones ISR para régimen RESICO</li>
+    <li>Guía de uso y llenado de CFDI (facturas electrónicas)</li>
+    <li>Información sobre regímenes fiscales del SAT</li>
+    <li>Registro y análisis de movimientos financieros mediante archivos Excel</li>
+    <li>Calculadora de ISR mensual para RESICO y Actividad Empresarial</li>
+  </ul>
+
+  <h2>3. Naturaleza Informativa</h2>
+  <p>ContaFacil MX tiene un propósito exclusivamente informativo y educativo. La información proporcionada por la App NO constituye asesoría fiscal, contable, legal o financiera profesional. Los cálculos son estimaciones basadas en las tasas vigentes y pueden no reflejar la situación fiscal particular de cada usuario.</p>
+  <p>Se recomienda consultar a un contador público certificado o asesor fiscal para tomar decisiones fiscales importantes.</p>
+
+  <h2>4. Plan Gratuito y Plan Premium</h2>
+  <p>La App ofrece dos modalidades de acceso:</p>
+  <ul>
+    <li><strong>Plan Gratuito:</strong> Incluye acceso a las funciones básicas con ciertas limitaciones.</li>
+    <li><strong>Plan Premium:</strong> Incluye acceso ilimitado a todas las funciones mediante una suscripción mensual de $99 MXN o anual de $799 MXN.</li>
+  </ul>
+
+  <h2>5. Propiedad Intelectual</h2>
+  <p>Todos los derechos de propiedad intelectual sobre la App, incluyendo su diseño, código fuente, marca, logotipo y contenido, son propiedad exclusiva del desarrollador. Queda prohibida su reproducción, distribución o modificación sin autorización expresa y por escrito.</p>
+
+  <h2>6. Limitación de Responsabilidad</h2>
+  <p>El desarrollador de ContaFacil MX no será responsable por:</p>
+  <ul>
+    <li>Errores u omisiones en los cálculos fiscales derivados de datos incorrectos proporcionados por el usuario.</li>
+    <li>Decisiones fiscales tomadas con base en la información de la App sin consultar a un profesional.</li>
+    <li>Cambios en la legislación fiscal mexicana que afecten la precisión de los cálculos.</li>
+    <li>Interrupciones del servicio por causas ajenas al control del desarrollador.</li>
+    <li>Pérdida de datos almacenados localmente en el dispositivo del usuario.</li>
+  </ul>
+
+  <h2>7. Modificaciones</h2>
+  <p>El desarrollador se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento. Las modificaciones entrarán en vigor al momento de su publicación en la App o en las tiendas de aplicaciones.</p>
+
+  <h2>8. Legislación Aplicable</h2>
+  <p>Los presentes Términos y Condiciones se rigen por las leyes de los Estados Unidos Mexicanos. Cualquier controversia será sometida a los tribunales competentes de la Ciudad de Torreón, Coahuila, México.</p>
+
+  <h2>9. Contacto</h2>
+  <p>Para cualquier duda sobre estos Términos y Condiciones, puede contactarnos a través de la sección de soporte dentro de la App.</p>
+
+  <hr class="divisor">
+  <p class="footer">© 2026 ContaFacil MX — Hecho para México 🇲🇽</p>
+</body>
+</html>
